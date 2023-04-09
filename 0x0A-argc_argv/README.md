@@ -1,3 +1,1 @@
-A set of basic projects dealing with command line arguments
-
-
+0x0A. C - argc, argv
